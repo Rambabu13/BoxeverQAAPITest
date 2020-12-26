@@ -1,6 +1,6 @@
 package tests.flows;
 
-import Objects.FinalData;
+import objects.FinalData;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.ParseException;
 import org.testng.Assert;

@@ -1,6 +1,6 @@
 package tests.flows;
 
-import Objects.FinalData;
+import objects.FinalData;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import utils.ConnectionUtils;

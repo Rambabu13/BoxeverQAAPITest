@@ -1,0 +1,82 @@
+{
+  "url": "https://api.github.com/gists/52a9350f5448a5062314cf289c1b86ec",
+  "forks_url": "https://api.github.com/gists/52a9350f5448a5062314cf289c1b86ec/forks",
+  "commits_url": "https://api.github.com/gists/52a9350f5448a5062314cf289c1b86ec/commits",
+  "id": "52a9350f5448a5062314cf289c1b86ec",
+  "node_id": "MDQ6R2lzdDUyYTkzNTBmNTQ0OGE1MDYyMzE0Y2YyODljMWI4NmVj",
+  "git_pull_url": "https://gist.github.com/52a9350f5448a5062314cf289c1b86ec.git",
+  "git_push_url": "https://gist.github.com/52a9350f5448a5062314cf289c1b86ec.git",
+  "html_url": "https://gist.github.com/52a9350f5448a5062314cf289c1b86ec",
+  "files": {
+    "AutomaticHello.txt": {
+      "filename": "AutomaticHello.txt",
+      "type": "text/plain",
+      "language": "Text",
+      "raw_url": "https://gist.githubusercontent.com/Luthluniel/52a9350f5448a5062314cf289c1b86ec/raw/061abc3d9d8c73c6393d869d51b6e66c179f7cc5/AutomaticHello.txt",
+      "size": 26,
+      "truncated": false,
+      "content": "Automatic Hello world!! :)"
+    }
+  },
+  "public": false,
+  "created_at": "2020-12-26T12:28:01Z",
+  "updated_at": "2020-12-26T12:28:01Z",
+  "description": "Automatic Hello world",
+  "comments": 0,
+  "user": null,
+  "comments_url": "https://api.github.com/gists/52a9350f5448a5062314cf289c1b86ec/comments",
+  "owner": {
+    "login": "Luthluniel",
+    "id": 34136600,
+    "node_id": "MDQ6VXNlcjM0MTM2NjAw",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/34136600?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Luthluniel",
+    "html_url": "https://github.com/Luthluniel",
+    "followers_url": "https://api.github.com/users/Luthluniel/followers",
+    "following_url": "https://api.github.com/users/Luthluniel/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Luthluniel/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Luthluniel/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Luthluniel/subscriptions",
+    "organizations_url": "https://api.github.com/users/Luthluniel/orgs",
+    "repos_url": "https://api.github.com/users/Luthluniel/repos",
+    "events_url": "https://api.github.com/users/Luthluniel/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Luthluniel/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  "forks": [],
+  "history": [
+    {
+      "user": {
+        "login": "Luthluniel",
+        "id": 34136600,
+        "node_id": "MDQ6VXNlcjM0MTM2NjAw",
+        "avatar_url": "https://avatars0.githubusercontent.com/u/34136600?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Luthluniel",
+        "html_url": "https://github.com/Luthluniel",
+        "followers_url": "https://api.github.com/users/Luthluniel/followers",
+        "following_url": "https://api.github.com/users/Luthluniel/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Luthluniel/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Luthluniel/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Luthluniel/subscriptions",
+        "organizations_url": "https://api.github.com/users/Luthluniel/orgs",
+        "repos_url": "https://api.github.com/users/Luthluniel/repos",
+        "events_url": "https://api.github.com/users/Luthluniel/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Luthluniel/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "version": "552bc992ed27d083a48e99189c12140e618240b5",
+      "committed_at": "2020-12-26T12:28:01Z",
+      "change_status": {
+        "total": 1,
+        "additions": 1,
+        "deletions": 0
+      },
+      "url": "https://api.github.com/gists/52a9350f5448a5062314cf289c1b86ec/552bc992ed27d083a48e99189c12140e618240b5"
+    }
+  ],
+  "truncated": false
+}

@@ -1,0 +1,10 @@
+{
+  "files": {
+    "AutomaticHello.txt": {
+      "filename": "AutomaticHello.txt",
+      "content": "Automatic Hello world!! :)"
+    }
+  },
+  "public": false,
+  "description": "Automatic Hello world"
+}

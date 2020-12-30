@@ -3,7 +3,6 @@ QA API Challenge for Boxever:
 This project has been developed using Java (11.0.6 version) and Maven as build and run framework.
 
 The dependencies installed are the following:
-* io.rest-assured (3.0.3)
 * org.testng (7.3.0)
 * org.json.simple (1.1.1)
 

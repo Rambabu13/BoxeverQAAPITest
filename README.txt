@@ -7,7 +7,7 @@ The dependencies installed are the following:
 * org.testng (7.3.0)
 * org.json.simple (1.1.1)
 
-The run configuratin must have the parameter '-Dtestng.dtd.http=true' included in the run line in JDK Settings->VM Options
+The run configuration must have the parameter '-Dtestng.dtd.http=true' included in the run line in JDK Settings->VM Options
 
 These tests run with a personal user token of my own GITHUB account.
 If you want to run them with a different account please generate it in your GITHUB account and change the 'token' String in 'src/test/java/objects/FinalData'.
